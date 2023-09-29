@@ -1,0 +1,25 @@
+body{
+    background: rgb(57, 203, 31);
+}
+h1{
+    text-align: center;
+    color: rebeccapurple;
+    font-size: 45px;
+}
+p{
+    text-align: center;
+    color: rgb(41, 17, 66);
+    font-size: 25px;
+}
+img{
+    width: 150px;
+    margin-left: 300px;
+}
+.cabecalho{
+    background-color: antiquewhite;
+    display: flex;
+}
+.logoimg{
+    width: 120px;
+    margin-left: 200px;
+}

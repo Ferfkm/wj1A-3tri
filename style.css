@@ -23,3 +23,15 @@ img{
     width: 120px;
     margin-left: 200px;
 }
+.listacabecalho{
+    display: flex;
+    margin-left: 730px;
+    margin-top: 125px;
+}
+.itemlistacabecalho{
+    list-style: none;
+    text-transform: uppercase;
+    color: blueviolet;
+    font-size: 30px;
+    padding-left: 35px;
+}
